@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently working on Personal Finance Tracker Project<br>I'm currently learning Spring boot + DevOps<br>Ask me about JAVA<br>
+I'm currently working on an AI Video Ads Generator Project<br>I'm currently learning how to use AI and ML <br>Ask me about Anything<br>
 
 
 ## 🌐 Socials:
