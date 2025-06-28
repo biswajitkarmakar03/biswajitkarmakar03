@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently working on an AI Video Ads Generator Project<br>I'm currently learning how to use AI and ML <br>Ask me about Anything<br>
+I'm currently working on an Job Hunting Application Project<br>I'm currently learning MERN <br>Ask me about Anything Designing<br>
 
 
 ## 🌐 Socials:
