@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently working on a Ecommerce project<br>I'm currently learning CodeIgniter 4<br>
+I'm currently working on Job Hunting Platform project<br>I'm currently learning LARAVEL 12 4<br>
 
 
 ## 🌐 Socials:
