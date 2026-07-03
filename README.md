@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently working on Job Hunting Platform project<br>I'm currently learning LARAVEL 12<br>
+I'm currently working on JobSphare – Job Portal Web Application <br>I'm currently learning LARAVEL 12<br>
 
 
 ## 🌐 Socials:
